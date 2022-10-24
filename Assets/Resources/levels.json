@@ -1,0 +1,18 @@
+[
+	{
+		"levelId": "level_1",
+		"winColor": "00AC00",
+		"winMatch": [
+			{
+			    "itemId": "apple",			   
+			    "count": 1
+			},
+			{
+			    "itemId": "banana",			   
+			    "count": 1
+			}
+        ]
+	},
+	
+
+]
